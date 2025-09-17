@@ -1,8 +1,9 @@
 livekit
 livekit-agents
-livekit-server-sdk
+livekit-api
 mem0ai
 google-generativeai
 fastapi
 uvicorn
 python-dotenv
+google.genai
